@@ -1,0 +1,63 @@
+Pos,Class,No.,Team,Drivers,Chassis,Tyre,Laps,Time/Reason,Distance
+1,Hypercar,51,Ferrari AF Corse,"James Calado, Antonio Giovinazzi, Alessandro Pier Guidi",Ferrari 499P,Michelin,342,24:00:18.099‚Ä°,4660.092
+2,Hypercar,8,Toyota Gazoo Racing,"Sébastien Buemi, Brendon Hartley, Ry_ Hirakawa",Toyota GR010 Hybrid,Michelin,342,+1:21.793,4654.828738
+3,Hypercar,2,Cadillac Racing,"Earl Bamber, Alex Lynn, Richard Westbrook",Cadillac V-Series.R,Michelin,341,+1 lap,4646.466
+4,Hypercar,3,Cadillac Racing,"Sébastien Bourdais, Scott Dixon, Renger van der Zande",Cadillac V-Series.R,Michelin,340,+2 laps,4632.84
+5,Hypercar,50,Ferrari AF Corse,"Antonio Fuoco, Miguel Molina, Nicklas Nielsen",Ferrari 499P,Michelin,337,+5 laps,4591.962
+6,Hypercar,708,Glickenhaus Racing,"Ryan Briscoe, Romain Dumas, Olivier Pla",Glickenhaus SCG 007 LMH,Michelin,335,+7 laps,4564.71
+7,Hypercar,709,Glickenhaus Racing,"Nathanaël Berthon, Esteban Gutiérrez, Franck Mailleux",Glickenhaus SCG 007 LMH,Michelin,333,+9 laps,4537.458
+8,Hypercar,93,Peugeot TotalEnergies,"Paul di Resta, Mikkel Jensen, Jean-Éric Vergne",Peugeot 9X8,Michelin,330,+12 laps,4496.58
+9,LMP2,34,Inter Europol Competition,"Albert Costa, Fabio Scherer, Jakub _miechowski",Oreca 07,Goodyear,328,+14 laps,4469.328
+10,LMP2,41,Team WRT,"Rui Andrade, Louis Delétraz Robert Kubica",Oreca 07,Goodyear,328,+14 laps,4469.328
+11,LMP2,30,Duqueine Team,"René Binder, Neel Jani, Nico Pino",Oreca 07,Goodyear,327,+15 laps,4455.702
+12,LMP2,36,Alpine Elf Team,"Julien Canal, Charles Milesi, Matthieu Vaxivière",Oreca 07,Goodyear,327,+15 laps,4455.702
+13,LMP2,31,Team WRT,"Robin Frijns, Sean Gelael, Ferdinand Habsburg",Oreca 07,Goodyear,327,+15 laps,4455.702
+14,LMP2,48,IDEC Sport,"Paul-Loup Chatin, Laurents Hörr, Paul Lafargue",Oreca 07,Goodyear,327,+15 laps,4455.702
+15,LMP2,10,Vector Sport,"Gabriel Aubry, Ryan Cullen, Matthias Kaiser",Oreca 07,Goodyear,325,+17 laps,4428.45
+16,Hypercar,5,Porsche Penske Motorsport,"Dane Cameron, Michael Christensen, Frédéric Makowiecki",Porsche 963,Michelin,325,+17 laps,4428.45
+17,Hypercar,311,Action Express Racing,"Jack Aitken, Pipo Derani, Alexander Sims",Cadillac V-Series.R,Michelin,324,+18 laps,4414.824
+18,LMP2,23,United Autosports,"Tom Blomqvist, Oliver Jarvis, Josh Pierson",Oreca 07,Goodyear,323,+19 laps,4401.198
+19,LMP2,35,Alpine Elf Team,"Olli Caldwell, André Negrão, Memo Rojas",Oreca 07,Goodyear,322,+20 laps,4387.572
+20,LMP2,45,Algarve Pro Racing,"James Allen, Colin Braun, George Kurtz",Oreca 07,Goodyear,322,+20 laps,4387.572
+21,LMP2,22,United Autosports,"Filipe Albuquerque, Philip Hanson, Frederick Lubin",Oreca 07,Goodyear,321,+21 laps,4373.946
+22,Hypercar,6,Porsche Penske Motorsport,"Kévin Estre, André Lotterer, Laurens Vanthoor",Porsche 963,Michelin,320,+22 laps,4360.32
+23,LMP2,37,COOL Racing,"Alexandre Coigny, Malthe Jakobsen, Nicolas Lapierre",Oreca 07,Goodyear,317,+25 laps,4319.442
+24,LMP2,28,Jota,"Pietro Fittipaldi, David Heinemeier Hansson, Oliver Rasmussen",Oreca 07,Goodyear,316,+26 laps,4305.816
+25,LMP2,65,Panis Racing,"Tijmen van der Helm, Manuel Maldonado, Job van Uitert",Oreca 07,Goodyear,316,+26 laps,4305.816
+26,LMGTE Am,33,Corvette Racing,"Nicky Catsburg, Ben Keating, Nicolás Varrone",Chevrolet Corvette C8.R,Michelin,313,+29 laps,4264.938
+27,Hypercar,94,Peugeot TotalEnergies,"Loïc Duval, Gustavo Menezes, Nico Müller",Peugeot 9X8,Michelin,312,+30 laps,4251.312
+28,LMGTE Am,25,ORT by TF,"Ahmad Al Harthy, Michael Dinan, Charlie Eastwood",Aston Martin Vantage AMR,Michelin,312,+30 laps,4251.312
+29,LMGTE Am,86,GR Racing,"Ben Barker, Riccardo Pera, Michael Wainwright",Porsche 911 RSR-19,Michelin,312,+30 laps,4251.312
+30,LMGTE Am,85,Iron Dames,"Sarah Bovy, Rahel Frey, Michelle Gatting",Porsche 911 RSR-19,Michelin,312,+30 laps,4251.312
+31,LMGTE Am,54,AF Corse,"Francesco Castellacci, Thomas Flohr, Davide Rigon",Ferrari 488 GTE Evo,Michelin,312,+30 laps,4251.312
+32,LMP2,43,DKR Engineering,"Maxime Martin, Tom van Rompuy, Ugo de Wilde",Oreca 07,Goodyear,311,+31 laps,4237.686
+33,LMGTE Am,98,Northwest AMR,"Ian James, Daniel Mancinelli, Alex Riberas",Aston Martin Vantage AMR,Michelin,310,+32 laps,4224.06
+34,LMP2,9,Prema Racing,"Juan Manuel Correa, Filip Ugran, Bent Viscaal",Oreca 07,Goodyear,310,+32 laps,4224.06
+35,LMGTE Am,56,Project 1 - AO,"Matteo Cairoli, P. J. Hyett, Gunnar Jeannette",Porsche 911 RSR-19,Michelin,309,+33 laps,4210.434
+36,LMGTE Am,100,Walkenhorst Motorsport,"Andrew Haryanto, Chandler Hul,l Jeff Segal",Ferrari 488 GTE Evo,Michelin,307,+35 laps,4183.182
+37,LMP2,39,Graff Racing,"Giedo van der Garde, Roberto Lacorte, Patrick Pilet",Oreca 07,Goodyear,303,+39 laps,4128.678
+38,LMGTE Am,74,Kessel Racing,"Kei Cozzolino, Yorikatsu Tsujiko, Naoki Yokomizo",Ferrari 488 GTE Evo,Michelin,303,+39 laps,4128.678
+39,Innovative,24,Hendrick Motorsports,"Jenson Button, Jimmie Johnson, Mike Rockenfeller",Chevrolet Camaro ZL1,Goodyear,285,+57 laps,3883.41
+40,Hypercar,38,Hertz Team Jota,"António Félix da Costa, Will Stevens, Ye Yifei",Porsche 963,Michelin,244,+98 laps,3324.744
+DNF,LMGTE Am,57,Kessel Racing,"Scott Huffaker, Takeshi Kimura, Daniel Serra",Ferrari 488 GTE Evo,Michelin,254,Accident,3461.004
+DNF,LMGTE Am,911,Proton Competition,"Michael Fassbender, Richard Lietz, Martin Rump",Porsche 911 RSR-19,Michelin,246,Accident damage,3351.996
+DNF,LMP2,80,AF Corse,"Ben Barnicoat, Norman Nato, François Perrodo",Oreca 07,Goodyear,183,Accident,2493.558
+DNF,LMGTE Am,88,Proton Competition,"Jonas Ried, Harry Tincknell, Don Yount",Porsche 911 RSR-19,Michelin,170,Accident,2316.42
+DNF,Hypercar,4,Floyd Vanwall Racing Team,"Tom Dillmann, Esteban Guerrieri, Tristan Vautier",Vanwall Vandervell 680,Michelin,165,Engine,2248.29
+DNF,LMGTE Am,777,D'Station Racing,"Tomonobu Fujii, Satoshi Hoshino, Casper Stevenson",Aston Martin Vantage AMR,Michelin,163,Electrical,2221.038
+DNF,LMP2,47,COOL Racing,"Reshad de Gerus, Vladislav Lomko, Simon Pagenaud",Oreca 07,Goodyear,158,Accident,2152.908
+DNF,LMGTE Am,77,Dempsey ‚Äì Proton Racing,"Julien Andlauer, Christian Ried, Mikkel O. Pedersen",Porsche 911 RSR-19,Michelin,118,Accident damage,1607.868
+DNF,LMP2,32,Inter Europol Competition,"Anders Fjordbach, Mark Kvamm,e Jan Magnussen",Oreca 07,Goodyear,117,Suspension,1594.242
+DNF,LMP2,63,Prema Racing,"Mirko Bortolotti, Daniil Kvyat, Doriane Pin",Oreca 07,Goodyear,113,Accident,1539.738
+DNF,Hypercar,7,Toyota Gazoo Racing,"Mike Conway, Kamui Kobayashi, José María López",Toyota GR010 Hybrid,Michelin,103,Collision,1403.478
+DNF,LMGTE Am,66,JMW Motorsport,"Thomas Neubauer, Giacomo Petrobelli, Louis Prette",Ferrari 488 GTE Evo,Michelin,89,Collision,1212.714
+DNF,LMP2,923,Racing Team Turkey,"Tom Gamble, Dries Vanthoor, Salih Yoluç",Oreca 07,Goodyear,87,Suspension,1185.462
+DNF,Hypercar,75,Porsche Penske Motorsport,"Mathieu Jaminet, Felipe Nasr, Nick Tandy",Porsche 963,Michelin,84,Fuel pressure,1144.584
+DNF,LMGTE Am,72,TF Sport,"Valentin Hasse-Clot, Arnold Robin, Maxime Robin",Aston Martin Vantage AMR,Michelin,58,Accident,790.308
+DNF,LMGTE Am,83,Richard Mille AF Corse,"Luis Pérez Companc, Alessio Rovera, Lilou Wadoux",Ferrari 488 GTE Evo,Michelin,33,Accident,449.658
+DNF,LMGTE Am,60,Iron Lynx,"Matteo Cressoni, Alessio Picariello, Claudio Schiavoni",Porsche 911 RSR-19,Michelin,28,Collision,381.528
+DNF,LMGTE Am,16,Proton Competition,"Ryan Hardwick, Jan Heylen, Zacharie Robichon",Porsche 911 RSR-19,Michelin,28,Collision,381.528
+DNF,LMGTE Am,55,GMB Motorsport,"Gustav Birch, Jens Reno Møller, Marco Sørensen",Aston Martin Vantage AMR,Michelin,21,Collision,286.146
+DNF,LMGTE Am,21,AF Corse,"Simon Mann, Ulysse de Pauw, Julien Piguet",Ferrari 488 GTE Evo,Michelin,21,Collision,286.146
+DNF,LMP2,13,Tower Motorsports,"René Rast, Ricky Taylor, Steven Thomas",Oreca 07,Goodyear,19,Accident,258.894
+DNF,LMP2,14,Nielsen Racing,"Mathias Beche, Ben Hanley, Rodrigo Sales",Oreca 07,Goodyear,18,Accident,245.268
